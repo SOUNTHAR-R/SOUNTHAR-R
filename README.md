@@ -16,13 +16,13 @@
 
 Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai, India. Experienced in building full-stack web applications, machine learning model pipelines, and NLP-powered tools. 
 
-- 🎓 **Education**: B.Tech CSE (AI & ML) at Vels Institute of Science, Technology & Advanced Studies (2022–2026) | **CGPA: 8.57 / 10.0**
-- 💼 **Current Role**: Technical Head @ College Coding Club (2025–Present)
-- 💼 **Past Experience**: 
+- **Education**: B.Tech CSE (AI & ML) at Vels Institute of Science, Technology & Advanced Studies (2022–2026) | **CGPA: 8.57 / 10.0**
+- **Current Role**: Technical Head @ College Coding Club (2025–Present)
+- **Past Experience**: 
   - Full Stack Developer Intern @ CGS – Green Sustainergy Startup (Jun 2025 – Aug 2025)
   - Machine Learning Intern @ Cognorise Infotech (2024)
-- 🏆 **Top Achievement**: Ranked in **Top 1% Nationwide** (Elite Rank) in NPTEL Python for Data Science among 10,000+ candidates.
-- ⚡ **Competitive Programming**: Solved 50+ DSA problems across arrays, linked lists, and hashing on LeetCode.
+- **Top Achievement**: Ranked in **Top 1% Nationwide** (Elite Rank) in NPTEL Python for Data Science among 10,000+ candidates.
+- **Competitive Programming**: Solved 125+ DSA problems on LeetCode.
 
 ---
 
@@ -36,15 +36,15 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ### 🛠️ Featured Projects
 
-- 🚀 **Attendance Management System**  
+- **Attendance Management System**  
   *Python, HTML, CSS, JavaScript, Camera API, Geolocation API*  
   Production-ready full-stack attendance platform serving 50+ employees for a live startup. Features real-time GPS verification & camera photo capture, cutting attendance processing time by **40%** and reaching **99%** tracking accuracy.
 
-- 🌊 **Intelligent Waterlogging Monitoring System (IWMS)**  
+- **Intelligent Waterlogging Monitoring System (IWMS)**  
   *Python, IoT, React, Web Dashboard*  
   Real-time IoT monitoring system detecting urban road waterlogging across 3+ sensor zones with a live web dashboard and automated alert notifications, reducing average emergency response time by **60%**.
 
-- 🤖 **Class Buddy AI**  
+- **Class Buddy AI**  
   *Python, NLP, HTML, CSS, MongoDB*  
   NLP-powered AI assistant that extracts assignments, generates quizzes, and produces summaries from live class discussions while automating attendance marking to reduce instructor workload by **50%**.
 
@@ -88,12 +88,12 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ### 📜 Certifications & Achievements
 
-- 🥇 **Python for Data Science** — NPTEL *(Top 1% Nationwide, Elite Rank)*
-- 🤖 **Intro to Machine Learning** — NPTEL
-- 📊 **Supervised ML: Regression & Classification** — Coursera
-- 🗄️ **Database Management Systems** — NPTEL
-- ☁️ **Cloud Computing** — NPTEL
-- 🥈 **2nd Prize in Poster Presentation** — VELS University *(among 30+ teams)*
+- **Python for Data Science** — NPTEL *(Top 1% Nationwide, Elite Rank)*
+- **Intro to Machine Learning** — NPTEL
+- **Supervised ML: Regression & Classification** — Coursera
+- **Database Management Systems** — NPTEL
+- **Cloud Computing** — NPTEL
+- **2nd Prize in Poster Presentation** — VELS University *(among 30+ teams)*
 
 ---
 
