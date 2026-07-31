@@ -12,12 +12,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai, India. Experienced in building full-stack web applications, machine learning model pipelines, and NLP-powered tools. 
 
 - **Education**: B.Tech CSE (AI & ML) at Vels Institute of Science, Technology & Advanced Studies (2022–2026) | **CGPA: 8.57 / 10.0**
-- **Current Role**: Technical Head @ College Coding Club (2025–Present)
+- **Current Role**: President @ College Coding Club (2026–Present)
 - **Past Experience**: 
   - Full Stack Developer Intern @ CGS – Green Sustainergy Startup (Jun 2025 – Aug 2025)
   - Machine Learning Intern @ Cognorise Infotech (2024)
@@ -26,7 +26,7 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ---
 
-### 📊 Activity Statistics
+### Activity Statistics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SOUNTHAR-R/SOUNTHAR-R/main/stats-card.svg" alt="Sounthar R's GitHub Stats" width="100%" />
@@ -34,7 +34,7 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 - **Attendance Management System**  
   *Python, HTML, CSS, JavaScript, Camera API, Geolocation API*  
@@ -50,7 +50,7 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ---
 
-### ⚙️ Technical Skills
+### Technical Skills
 
 #### Programming Languages
 <p>
@@ -86,7 +86,7 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ---
 
-### 📜 Certifications & Achievements
+### Certifications & Achievements
 
 - **Python for Data Science** — NPTEL *(Top 1% Nationwide, Elite Rank)*
 - **Intro to Machine Learning** — NPTEL
@@ -97,7 +97,7 @@ Passionate **Computer Science & Engineering (AI & ML)** student based in Chennai
 
 ---
 
-### 📫 Contact & Connect
+### Contact & Connect
 
 - 📧 **Email**: [r.sounthar08@gmail.com](mailto:r.sounthar08@gmail.com)
 - 📞 **Phone**: +91 93600 11447
